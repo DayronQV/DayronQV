@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/BZPF6PcT/foto-perfil.jpg" height="280" />
+  <img src="https://i.postimg.cc/BZPF6PcT/foto-perfil.jpg" width="70%" />
 </div>
 
 <br>
@@ -16,12 +16,6 @@
   <a href="https://www.instagram.com/dayronquinonez" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DayronQV.DayronQV" />
 </div>
 
 ---
