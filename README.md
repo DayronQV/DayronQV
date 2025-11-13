@@ -1,17 +1,19 @@
 <div align="center">
-  <img src="https://i.postimg.cc/BZPF6PcT/foto-perfil.jpg" width="100%" />
+  <img src="https://i.postimg.cc/BZPF6PcT/foto-perfil.jpg" height="230" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://facebook.com/https://www.facebook.com/DayronQui?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
+  <a href="https://www.facebook.com/DayronQui?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
   </a>
-  <a href="https://twitter.com/https://x.com/AdrianQ31612240" target="_blank">
+
+  <a href="https://x.com/AdrianQ31612240" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/dayronquinonez" target="_blank">
+
+  <a href="https://www.instagram.com/dayronquinonez" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
 </div>
